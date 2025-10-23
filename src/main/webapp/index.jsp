@@ -219,7 +219,7 @@
 <body>
     <div class="container">
         <div class="top-right-info">
-            <div class="developer-name">👨‍💻 Wasim Hassan</div>
+            <div class="developer-name">&#128104;&#8205;&#128187; Wasim Hassan</div>
             <p class="project-note">Enterprise-level DevOps practices with AWS cloud services</p>
             <a href="https://github.com/wasim-hassan/nextwork-web-project" class="github-link" target="_blank">
                 View on GitHub
@@ -227,51 +227,51 @@
         </div>
 
         <div class="header">
-            <h1>🚀 Java Web App Deployment</h1>
+            <h1>&#128640; Java Web App Deployment</h1>
             <p>Automated CI/CD Pipeline with AWS</p>
         </div>
 
         <div class="main-content">
             <div style="grid-column: 1 / -1;">
                 <div class="status-card">
-                    <h2>✅ Application Successfully Deployed</h2>
+                    <h2>&#9989; Application Successfully Deployed</h2>
                 </div>
             </div>
 
             <div class="info-grid">
                 <div class="info-item">
-                    <h3>📦 Build & Compile</h3>
+                    <h3>&#128230; Build & Compile</h3>
                     <p>Source code compiled with Maven, tests executed, and deployment packages generated via AWS CodeBuild</p>
                 </div>
 
                 <div class="info-item">
-                    <h3>☁️ Cloud Infrastructure</h3>
+                    <h3>&#9729;&#65039; Cloud Infrastructure</h3>
                     <p>Developed and deployed on Amazon EC2 virtual servers with complete cloud-based workflow</p>
                 </div>
 
                 <div class="info-item">
-                    <h3>🔄 Automated Pipeline</h3>
+                    <h3>&#128257; Automated Pipeline</h3>
                     <p>AWS CodePipeline orchestrates the entire flow from GitHub to deployment across EC2 instances</p>
                 </div>
 
                 <div class="info-item">
-                    <h3>📦 Artifact Management</h3>
+                    <h3>&#128230; Artifact Management</h3>
                     <p>AWS CodeArtifact manages dependencies and build artifacts for high availability and faster builds</p>
                 </div>
 
                 <div class="info-item">
-                    <h3>🚀 Deployment Automation</h3>
+                    <h3>&#128640; Deployment Automation</h3>
                     <p>AWS CodeDeploy handles automated deployment process across multiple EC2 instances</p>
                 </div>
 
                 <div class="info-item">
-                    <h3>💻 Development Environment</h3>
+                    <h3>&#128187; Development Environment</h3>
                     <p>VS Code connected to EC2 instance for seamless cloud-based development and file management</p>
                 </div>
             </div>
 
             <div class="tech-section">
-                <h3>🛠️ Technology Stack</h3>
+                <h3>&#128736;&#65039; Technology Stack</h3>
                 <div class="tech-stack">
                     <span class="tech-badge">Java</span>
                     <span class="tech-badge">JSP/Servlet</span>
